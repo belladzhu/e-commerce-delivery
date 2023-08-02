@@ -12,3 +12,4 @@
 ### Анализ проведен на Python, выводы в файле e-commerce__delivery_project.ipynb
 
 ## Тепловая карта метрики retention в когортном анализе
+![хитмап](https://github.com/belladzhu/e-commerce-delivery/assets/101130608/9391feef-9a86-4483-803a-8d53dcf02360)
